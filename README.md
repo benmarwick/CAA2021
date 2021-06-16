@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4968841.svg)](https://doi.org/10.5281/zenodo.4968841)
 
 ## [CAA2021](https://2021.caaconference.org/):  Digital Ecosystems in Archaeological Science: A History and Taxonomy of R packages in Archaeology
 
@@ -13,7 +14,7 @@ The digital ecosystem of a research community is important to understand because
 - 📁 scripts: R code files
 - 📁 presentation: Powerpoint file of the conference presentation
 
-Data files are currently not included because of their size. They were manually collected from all the papers listed at https://github.com/benmarwick/ctv-archaeology/blob/master/README.md#publications-that-include-r-code
+Data files are currently not included because of their size. They are archived at https://doi.org/10.5281/zenodo.4968556. They were manually collected from all the papers listed at https://github.com/benmarwick/ctv-archaeology/blob/master/README.md#publications-that-include-r-code as of 15 June 2021.
 
 ### Dependencies
 
