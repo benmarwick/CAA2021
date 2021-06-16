@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4968841.svg)](https://doi.org/10.5281/zenodo.4968841)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4968841.svg)](https://doi.org/10.5281/zenodo.4968841)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4968556.svg)](https://doi.org/10.5281/zenodo.4968556)
+
 
 ## [CAA2021](https://2021.caaconference.org/):  Digital Ecosystems in Archaeological Science: A History and Taxonomy of R packages in Archaeology
 
