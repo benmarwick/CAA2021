@@ -14,11 +14,9 @@ The digital ecosystem of a research community is important to understand because
 
 Data files are currently not included because of their size.
 
-Our [presentation slides](https://docs.google.com/presentation/d/14-ApXe6U3voOdnydGTesZdgevESNHci5rd6kiHHpmZM/edit#slide=id.p) are online.
-
 ### Dependencies
 
-We used [R v4.0.5](https://cran.r-project.org/) and [RevBayes v1.1.1 ](https://revbayes.github.io/)
+We used [R v4.0.5](https://cran.r-project.org/) 
 
 ### Licenses
 
