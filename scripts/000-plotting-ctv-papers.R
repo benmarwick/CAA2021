@@ -123,4 +123,5 @@ archaeology_articles_r_reproducible <-
 archaeology_articles_r_reproducible
 
 ggsave(here::here("figures/papers-per-year.png"),
-       w = 15)
+       w = 15,
+       h = 9)
